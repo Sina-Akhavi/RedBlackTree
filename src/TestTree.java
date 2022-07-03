@@ -12,7 +12,7 @@ public class TestTree {
         tree.insert(1);
 
         tree.printPreorder();
-        System.out.println("---------------\n");
+        System.out.println("\n\n---------------\n");
 
         System.out.println(tree.find(2));
     }
